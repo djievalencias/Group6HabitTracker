@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "7E5C86E1-20E7-4625-8C59-D97E798BD90D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:HabitTracker.xcodeproj",
+      "identifier" : "000000000000000100000000",
+      "name" : "HabitTracker"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HabitTracker.xcodeproj",
+        "identifier" : "CE2FC20D2FE2563E009E7DA4",
+        "name" : "HabitTrackerTests"
+      }
+    }
+  ],
+  "version" : 1
+}

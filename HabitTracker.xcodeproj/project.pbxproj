@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* Group6HabitTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Group6HabitTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		50E065D12FFCAEF800563657 /* HabitTracker.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = HabitTracker.xctestplan; sourceTree = "<group>"; };
 		CE2FC20E2FE2563E009E7DA4 /* HabitTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HabitTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -51,6 +52,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				50E065D12FFCAEF800563657 /* HabitTracker.xctestplan */,
 				000000000000000000000010 /* HabitTracker */,
 				CE2FC20F2FE2563E009E7DA4 /* HabitTrackerTests */,
 				000000000000000000000020 /* Products */,
@@ -340,7 +342,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "AppleDeveloperAcademy.--PROJECT-UNIQUE-VALUE-identifier-.--PRODUCT-NAME-identifier-";
+				PRODUCT_BUNDLE_IDENTIFIER = "AppleDeveloperAcademy.--PROJECT-UNIQUE-VALUE-identifier-.--Group6HabitTracker-identifier-";
 				PRODUCT_NAME = Group6HabitTracker;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -382,7 +384,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "AppleDeveloperAcademy.--PROJECT-UNIQUE-VALUE-identifier-.--PRODUCT-NAME-identifier-";
+				PRODUCT_BUNDLE_IDENTIFIER = "AppleDeveloperAcademy.--PROJECT-UNIQUE-VALUE-identifier-.--Group6HabitTracker-identifier-";
 				PRODUCT_NAME = Group6HabitTracker;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
