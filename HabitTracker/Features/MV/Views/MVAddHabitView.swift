@@ -21,7 +21,7 @@ struct MVAddHabitView: View {
                 nameSection
                 frequencySection
             }
-            .navigationTitle("New Habit")
+            .navigationTitle("Add New Habit Here")
             #if !os(macOS)
             .navigationBarTitleDisplayMode(.inline)
             #endif
