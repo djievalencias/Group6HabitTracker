@@ -4,7 +4,7 @@ import SwiftUI
 struct MVEmptyStateView: View {
     var body: some View {
         ContentUnavailableView(
-            "No Habits Yet",
+            "No Habits Yet, Please Add",
             systemImage: "checkmark.circle",
             description: Text("Tap + to add your first habit and start tracking your progress.")
         )
